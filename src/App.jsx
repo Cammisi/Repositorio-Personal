@@ -191,7 +191,7 @@ function App() {
         </div>
       </section>
 
-      {/* EDUCATION */}
+{/* EDUCATION */}
       <section id="education">
         <div className="reveal">
           <div className="section-label">Formación</div>
@@ -207,7 +207,17 @@ function App() {
             <div className="edu-desc">
               Universidad Tecnológica Nacional — Facultad Regional Santa Fe.
               Formación integral en desarrollo de software, bases de datos,
-              arquitecturas de sistemas y gestión de proyectos.
+              arquitecturas distribuidas y gestión de proyectos de ingeniería.
+            </div>
+          </div>
+
+          <div className="edu-card">
+            <div className="edu-icon">📜</div>
+            <div className="edu-inst">UTN FRSF</div>
+            <div className="edu-title">Analista Universitario de Sistemas</div>
+            <div className="edu-period">Diciembre 2025</div>
+            <div className="edu-desc">
+              Título universitario intermedio. Certificación oficial de la finalización del ciclo técnico avanzado, cubriendo fundamentos sólidos de programación, estructuras de datos, análisis de sistemas y bases de datos.
             </div>
           </div>
 
@@ -252,7 +262,7 @@ function App() {
           </div>
         </div>
       </section>
-      
+
       {/* CONTACT */}
       <section id="contact">
         <div className="reveal">
