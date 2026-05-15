@@ -212,6 +212,25 @@ function App() {
           </div>
 
           <div className="edu-card">
+            <div className="edu-icon">💼</div>
+            <div className="edu-inst">University of Pennsylvania (Coursera)</div>
+            <div className="edu-title">English for Career Development</div>
+            <div className="edu-period">Mayo 2026</div>
+            <div className="edu-desc">
+              Perfeccioné mis habilidades de comunicación profesional, optimización de perfiles técnicos para sistemas ATS y estrategias de networking aplicadas al mercado IT global.
+            </div>
+              <a 
+                href="https://coursera.org/verify/XVIEQ4GHLVBZ" 
+                target="_blank" 
+                rel="noreferrer"
+                className="btn btn-ghost" 
+                style={{ fontSize: '.68rem', padding: '.5rem 1rem', marginTop: '.5rem', display: 'inline-flex', width: 'fit-content' }}
+              >
+                ↗ Ver credencial
+              </a>
+          </div>
+
+          <div className="edu-card">
             <div className="edu-icon">🌐</div>
             <div className="edu-inst">EF SET</div>
             <div className="edu-title">Certificación de Inglés B1+</div>
@@ -233,7 +252,7 @@ function App() {
           </div>
         </div>
       </section>
-
+      
       {/* CONTACT */}
       <section id="contact">
         <div className="reveal">
