@@ -243,10 +243,10 @@ function App() {
           <div className="edu-card">
             <div className="edu-icon">🌐</div>
             <div className="edu-inst">EF SET</div>
-            <div className="edu-title">Certificación de Inglés B1+</div>
+            <div className="edu-title">Certificación de Inglés B2+</div>
             <div className="edu-period">2026</div>
             <div className="edu-desc">
-              Certificado de nivel B1+ en el EF Standard English Test.
+              Certificado de nivel B2+ en el EF Standard English Test.
               Capacidad de comunicación técnica en inglés para entornos profesionales globales —
               documentación, código, reuniones y trabajo remoto.
             </div>
